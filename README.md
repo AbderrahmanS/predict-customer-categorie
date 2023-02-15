@@ -1,1 +1,2 @@
-# predict-customer-categorie
+# Machine Learning Classification Project:
+## Predicting Customer Categorie
